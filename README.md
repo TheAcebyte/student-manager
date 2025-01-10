@@ -2,14 +2,14 @@
 ## About
 CRUD desktop application for adding, removing, saving and loading lists of students containing their names and grades.
 
-## Demo
-![Student Manager Demonstration](demo.gif)
-
 ## Features
 - Add and remove students.
 - Save and load students from files.
 - Search students by first or last name.
 - Sort students by name or by grade.
+
+## Demo
+![Student Manager Demonstration](demo.gif)
 
 ## Installation
 First, run the following commands in your terminal:
