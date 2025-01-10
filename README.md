@@ -1,6 +1,6 @@
 # Student Manager
 ## About
-CRUD application for adding, removing, saving and loading lists of students containing their names and grades.
+CRUD desktop application for adding, removing, saving and loading lists of students containing their names and grades.
 
 ## Installation
 First, run the following commands in your terminal:
