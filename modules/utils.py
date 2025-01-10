@@ -1,6 +1,6 @@
 import customtkinter as ctk
 
-from lib.config import *
+from modules.config import *
 
 
 class Header(ctk.CTkFrame):

@@ -1,7 +1,7 @@
 import customtkinter as ctk
 
-from lib.config import *
-from lib.utils import *
+from modules.config import *
+from modules.utils import *
 
 
 class EntryViewer(ctk.CTkFrame):

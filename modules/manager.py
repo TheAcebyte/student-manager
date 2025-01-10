@@ -1,7 +1,7 @@
 from customtkinter import filedialog
 import bisect
 
-from lib.config import *
+from modules.config import *
 
 
 class StudentManager:
