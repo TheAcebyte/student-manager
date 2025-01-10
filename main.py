@@ -1,10 +1,10 @@
 import customtkinter as ctk
 
-from lib.config import *
-from lib.manager import *
-from lib.handler import *
-from lib.creator import *
-from lib.viewer import *
+from modules.config import *
+from modules.manager import *
+from modules.handler import *
+from modules.creator import *
+from modules.viewer import *
 
 
 class App(ctk.CTk):
